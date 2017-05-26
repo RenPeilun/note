@@ -5,3 +5,9 @@
 ```
 搜索Vue的拖拽组件搜到的他人收藏，很好很强大，搬运下
 ```
+
+#### [gitbub上搭建博客](http://liuyanwei.jumppo.com/2014/02/12/how-to-deploy-a-blog-on-github-by-jekyll.html)
+
+```
+多学多看
+```
