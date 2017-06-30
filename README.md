@@ -1,5 +1,7 @@
 # RPL.IO
 
+#### [markdown语法](http://zh.mweb.im/markdown-syntax-guide-suggest-version-zh.html)
+
 #### [他人收藏](https://github.com/qgh810/qgh810.github.io/blob/master/README.md)
 
 ```
