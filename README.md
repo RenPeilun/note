@@ -18,6 +18,7 @@
 #### [react native学习](https://github.com/crazycodeboy/react-native-awesome)
 #### [又是一个他人整理的学习资料](https://github.com/vczero/react-native-lesson)
 #### [facebook react native教程（他人翻译）](https://f8-app.liaohuqiu.net/)
+#### [《React Native高效开发》之create-react-native-app](https://juejin.im/post/58d8ef5f44d9040069444989)
 ```
 学习react-native是公司要求，先试水
 ```
